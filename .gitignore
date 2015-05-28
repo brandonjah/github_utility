@@ -36,6 +36,6 @@
 ehthumbs.db
 Thumbs.db
 
-.json
-.p12
-.yml
+*.json
+*.p12
+*.yml
